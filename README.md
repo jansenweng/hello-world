@@ -1,4 +1,4 @@
 # hello-world
-My First Repositoryest.
+My First Repository.
 
 Testing the change.
